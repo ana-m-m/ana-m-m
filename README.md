@@ -1,5 +1,8 @@
 ### Hi there, I'm Ana 👋
-📫 How to reach me: a.mateosm.2020@alumnos.urjc.es
+📫 How to reach me: amateosmata@gmail.com
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-m-m)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ana-m-m/ana-m-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
